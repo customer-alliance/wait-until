@@ -13,5 +13,5 @@ do
         exit 1
     fi
 
-    sleep 3
+    sleep 5
 done
